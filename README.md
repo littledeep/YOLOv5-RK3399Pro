@@ -84,9 +84,6 @@ Detail：
 
 
 
-## Chinese Blog(中文博客)
-
-https://blog.csdn.net/weixin_42200352/article/details/119772850
 
 
 
